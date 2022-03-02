@@ -1,0 +1,432 @@
+@media(min-width:1400px){
+    .ben-text h2 {
+        font-size: 72px;
+        padding-bottom: 24px;
+    }
+    .ben-text h1 {
+        font-size: 153px;
+        line-height: 130px;
+    }
+}
+
+
+@media(min-width:1200px) and (max-width:1399px){
+    .ben-text h1 {
+        font-size: 116px;
+        line-height: 104px;
+    }
+    .ben-text h2 {
+        font-size: 60px;
+        padding-bottom: 5px;
+    }
+    .ben-link a {
+        font-size: 15px;
+        padding: 15px 37px;
+    }
+}
+
+
+
+
+
+@media(min-width:992px) and (max-width:1199px){
+    .ben-text h1 {
+        font-size: 84px;
+        line-height: 80px;
+    }
+    .ben-text h2 {
+        font-size: 45px;
+        padding-bottom: 0px;
+    }
+    .ben-link {
+        margin-top: 80px;
+    }
+    .ben-text a::after {
+        bottom: 82px;
+
+    }
+    .ben-link a {
+        font-size: 14px;
+        padding: 15px 30px;
+    }
+    .follow-icon i {
+        padding-left: 13px;
+    }
+    .f-form button {
+        right: -4px;
+    }
+
+}
+
+
+
+
+
+@media(min-width:768px) and (max-width:991px){
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar{
+        background-color: #e25728ea;
+        text-align: center;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        position: sticky;
+    
+    }
+    .ben-text h1 {
+        font-size: 63px;
+        line-height: 0px;
+    }
+    .ben-text h2 {
+        font-size: 64px;
+        padding-bottom: 33px;
+    }
+    .com-content p {
+        font-size: 18px;
+        padding-right: 0px;
+        margin-left: 87px;
+    }
+    .com-content h5 {
+        font-size: 24px;
+        margin-left: 150px;
+        padding-top: 14px;
+    }
+    .f-form button {
+        right: 263px;
+       
+    }
+    .f-m-header {
+        margin-top: 20px;
+    }
+
+
+}
+
+
+
+
+@media(min-width:576px) and (max-width:767px){
+    .navbar {
+        position: sticky;
+    }
+    
+    .ben-text h1 {
+        font-size: 45px;
+        line-height: 0px;
+    }
+    .ben-text h2 {
+        font-size: 40px;
+        padding-bottom: 20px;
+    }
+    .ben-link {
+        margin-top: 69px;
+    }
+    .ben-link a {
+        font-size: 14px;
+        padding: 10px 18px;
+    }
+    .ben-text a::after {
+        display: none;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar {
+        background-color: #e25728ea;
+        text-align: center;
+    
+    }
+    .navbar {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+    .container, .container-sm {
+        max-width: 1320px;
+    }
+    #about {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+    .about-content h2 {
+        font-size: 29px;
+        padding-bottom: 75px;
+    }
+    .about-content p {
+        font-size: 13px;
+        padding-bottom: 50px;
+        line-height: 18px;
+    }
+    #counter {
+        padding-top: 42px;
+        padding-bottom: 67px;
+    }
+    .count-text span {
+        font-size: 60px;
+    }
+    #service {
+        padding-top: 50px;
+    }
+    .head {
+        padding-bottom: 5px;
+    }
+    .abc-head {
+        padding-bottom: 40px;
+    }
+    .ser-content p {
+        font-size: 15px;
+        padding: 0px 35px;
+    }
+    .com-icon i {
+        margin-bottom: 28px;
+    }
+    .com-content p {
+        font-size: 17px;
+        padding-right: 0px;
+        margin-left: 72px;
+    }
+    .com-content h5 {
+        font-size: 24px;
+        margin-left: 140px;
+        padding-top: 11px;
+    }
+    #team {
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    .team-content h3 {
+        padding-bottom: 10px;
+    }
+    .team-content h2 {
+        font-size: 28px;
+        padding-bottom: 75px;
+    }
+    .team-content p {
+        font-size: 14px;
+        padding-bottom: 56px;
+        line-height: 22px;
+    }
+    .team-lower {
+        padding-top: 27px;
+    }
+    .work-content h3 {
+        font-size: 24px;
+        padding-bottom: 15px;
+    }
+    .work-content h2 {
+        font-size: 28px;
+        padding-bottom: 70px;
+    }
+    .work-content p {
+        font-size: 14px;
+        padding-bottom: 54px;
+        line-height: 20px;
+    }
+    #work {
+        padding-bottom: 60px;
+    }
+    .f-m-header {
+        font-size: 14px;
+        padding-bottom: 16px;
+    }
+    button, input, optgroup, select, textarea {
+        margin-bottom: 20px;
+    }
+    .align-items-center {
+        margin-top: 20px;
+    }
+    .ser-icon {
+        margin-bottom: 15px;
+    }
+}
+@media(min-width:666px) and (max-width:767px){
+    .f-form button {
+        right: 259px;
+    }
+    .ser-content p {
+        padding: 0px 83px;
+    }
+    .align-items-center {
+        margin-top: 15px;
+    }
+}
+
+
+
+@media(max-width:575.99px){
+    .navbar {
+        position: static;
+        background-color: #e25728ea;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    .ben-text h1 {
+        font-size: 25px;
+        line-height: 0px;
+    }
+    .ben-text h2 {
+        font-size: 16px;
+        padding-bottom: 8px;
+    }
+    .ben-link {
+        margin-top: 35px;
+    }
+    .ben-link a {
+        font-size: 13px;
+        padding: 5px 9px;
+    }
+    .ben-text a::after {
+        display: none;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        color: #fff;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+    #about {
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+    .about-content h3 {
+        padding-bottom: 8px;
+    }
+    .about-content h2 {
+        font-size: 25px;
+        padding-bottom: 24px;
+    }
+    .about-content p {
+        font-size: 13px;
+        padding-bottom: 45px;
+        line-height: 20px;
+    }
+    .about-content h2::after {
+        display: none;
+    }
+    #counter {
+        padding-top: 45px;
+        padding-bottom: 45px;
+    }
+    .count-text span {
+        font-size: 50px;
+    }
+    #service {
+        padding-top: 45px;
+    }
+    .about-content h3 {
+        font-size: 24px;
+    }
+    .about-content h2 {
+        font-size: 24px;
+    }
+    .head {
+        padding-bottom: 10px;
+    }
+    .abc-head {
+        padding-bottom: 49px;
+    }
+    .ser-icon {
+        padding-bottom: 10px;
+    }
+    #comment {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+    .com-content p {
+        font-size: 15px;
+        padding-right: 0px;
+        margin-left: 12px;
+    }
+    .com-icon i {
+        margin-bottom: 20px;
+    }
+    .com-content h5 {
+        font-size: 22px;
+        margin-left: 75px;
+        padding-top: 16px;
+    }
+    #team {
+        padding-top: 49px;
+        padding-bottom: 59px;
+    }
+    .team-content h3 {
+        font-size: 22px;
+        padding-bottom: 7px;
+    }
+    .team-content h2 {
+        font-size: 26px;
+        padding-bottom: 30px;
+       
+    }
+    .team-content h2::after {
+        display: none;
+    }
+    .team-content p {
+        font-size: 13px;
+        padding-bottom: 50px;
+        line-height: 15px;
+    }
+    .team-lower h4 {
+        font-size: 15px;
+        padding-bottom: 0px;
+    }
+    .work-content h3 {
+        font-size: 22px;
+        padding-bottom: 7px;
+    }
+    .work-content h2 {
+        font-size: 23px;
+        padding-bottom: 45px;
+    }
+    .work-content h2::after {
+        display: none;
+    }
+    .work-content h2::after {
+	display: none;
+}
+.work-content p {
+	font-size: 13px;
+	padding-bottom: 50px;
+	line-height: 20px;
+}
+#work {
+	padding-bottom: 45px;
+}
+#footer {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.f-form input {
+	padding: 12px 20px;
+	width: 308px;
+	font-size: 15px;
+}
+.f-form button {
+	padding: 12px 18px;
+	bottom: 0;
+	right: -11px;
+}
+.follow-icon i {
+	font-size: 16px;
+	padding-left: 8px;
+}
+.f-muddel-content p {
+	margin-top: 15px;
+}
+
+}
+@media(min-width:490px) and (max-width:575.99px){
+    .ser-content p{
+        padding: 0 90px;
+    }
+    .f-form button {
+        right: 240px;
+    }
+}
